@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alex 😳</h1>
-<h3 align="center">A shi.... software developer from Spain</h3>
+<h3 align="center">A shi.... software developer and System Administrator from Spain</h3>
 
 ## 💬 Ask me about
 - Backend web development (NodeJS PHP)
