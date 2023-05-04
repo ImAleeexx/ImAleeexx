@@ -3,14 +3,16 @@
 <h3 align="center">A shi.... software developer and System Administrator from Spain</h3>
 
 ## 💬 Ask me about
-- Backend development (NodeJS PHP Java)
+- Backend development (NodeJS PHP Java C#)
+- Frontend development (React.js TS JS)
 - Virtualization
 - Networking
 
 ## 📅 Hobbies
 - Programming own DIY proyects
-- Web development for Minecraft servers
-- Watch cybersecurity stuff
+- Watching sports
+- Web development
+- Cybersecurity
 - Play videogames
 - Sleep
 - etc.
