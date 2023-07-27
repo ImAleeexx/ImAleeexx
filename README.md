@@ -20,5 +20,8 @@
 ## 💻 Current project
 - [OmegaServer](https://omegaserver.es)
 
+## 💬 Discord
+- @ImAleex_
+
 ## 🎶 Currently listening
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uqq6gu5msn72xcltn6yunue3oe&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)
